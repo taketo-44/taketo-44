@@ -1,13 +1,11 @@
 ### Hello
 
-## プロファイル<br>
-大学生<br>
-python/cpp/(rust)<br>
-CTF/競プロ/(os_devしたい)/低レイヤー/<br>
+## Profile<br>
+Researher in PQC
+Interested in security and low layer stuff
+Fluent in Japanese and English
 
-
-
-## profile<br>
-python/cpp/(rust)<br>
-Interested in CTF, competitive coding, os dev, low layer<br>
-can speak Japanese and English<br>
+## Background
+Kaisei High school
+UWC RobertBoschCollege
+Tohoku University (Currently enrolled)
